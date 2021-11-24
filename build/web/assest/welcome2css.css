@@ -1,0 +1,118 @@
+
+.phone:hover{
+	color: gray;
+}
+.bg_ul{
+	background-color: #003300;
+	font-size: 20px;
+	font-weight: 600;
+	padding: 12px;
+}
+
+.cartt{
+	font-size: 20px;
+	color: #FFCC00;
+}
+.footerr{
+	background-color: #00CCCC;
+	font-size: 30px;
+	padding: 20px;
+	color: white;
+	font-weight: bold;
+}
+.product_category{
+	margin-right: 10px;
+}
+.footer{
+    background-color: #0B0C11;
+    color: rgba(255, 255, 255, 0.705);
+    padding: 50px;
+}
+.footer_top .footer_top1  h3,.footer_top2  h3,.footer_top3  h3{
+    color: #f97c69ee;
+    font-size: 1.75rem;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.footer_top1 p{
+    color: rgba(255, 255, 255, 0.527);
+    font-size: 1.2rem;
+    line-height: 30px;
+    padding: 30px 0px;
+}
+.footer_top1 input{
+    font-size: 1.3rem;
+    padding: 20px;
+    background-color: #0B0C11;
+    color: white;
+    border-radius: 0px;
+    border: 2px solid white;
+    border-right: none;
+    height: 50px;
+}
+.footer_top1 input:focus{
+    background-color: #0B0C11;
+    color: white;
+}
+.footer_top1  i{
+    color: white;
+    
+}
+.footer_top1 button{
+    background-color: #7F67F8;
+    border-radius: none;
+    border: 2px solid white;
+    border-left: none;
+    padding: 0px 20px;
+    height: 50px;
+    transition: all 0.5s;
+}
+.footer_top1 button:hover{
+    background-color: #F97C69;
+    border: 2px solid white;
+    border-left: none;
+}
+.footer_top{
+    padding: 0 30px;
+}
+.footer_top a{
+    text-decoration: none;
+    display: block;
+    color: rgba(255, 255, 255, 0.562);
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding: 10px 0px;
+    transition: all 0.5s;
+}
+
+.footer_top .footer_top3 a{
+    color: rgba(255, 255, 255, 0.671);
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    text-decoration: none;
+    padding: 0 15px;
+    align-items: center;
+}
+.footer_top .footer_top3 p{
+    display: flex;
+    align-items: center;
+    transition: all 0.5s;
+}
+.footer_top .footer_top3 p:hover a{
+    color: #F97C69;
+}
+.footer_top .footer_top3 i {
+    align-items: center;
+    font-size: 1.3rem;
+    color: #F97C69;
+}
+.footer_bottom{
+    color: rgba(255, 255, 255, 0.877);
+    background-color: rgba(0, 0, 0, 0.897);
+    padding: 20px 0px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.1rem;
+    letter-spacing: 3px;
+}

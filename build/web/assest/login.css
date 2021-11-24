@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.login_img{
+	background-color: black
+}
+.login_img img{
+	width: 100%;
+	height: 100%;
+}
+.input_sigin{
+	widows: 80%;
+	height: 80%;
+	margin: 0 auto;
+	align-items: center;
+}
+.contain{
+	height: 700px;
+}
+.contain .row{
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}

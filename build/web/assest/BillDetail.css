@@ -1,0 +1,24 @@
+.bill_detail{
+	min-height:80%;
+	width:40%;
+	background-color: #006600;
+	opacity:0.8;
+	color: #001100;
+	font-weight: 400;
+	letter-spacing: 2px;
+	margin: 70px auto;
+	  box-shadow: 7px 13px 8px -4px #004400;
+	 color: white;
+}
+.bill{
+	min-height: 600px;
+	 
+}
+.bill_img{
+	width: 30%;
+	
+}
+.bill_contain{
+	
+	text-align: center;
+}

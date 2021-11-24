@@ -1,0 +1,55 @@
+.Contact
+{
+    padding: 50px 0px;
+}
+.Contact_content
+{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(4,1fr);
+    width: 75%;
+    margin: 0 auto;
+    padding: 30px 0px;
+}
+.Contact_content input,textarea
+{
+    font-size: 1rem;
+    padding: 9px 7px;
+    background-color: #ced3d0;
+    margin: 20px 15px;
+    border: none;
+    border-bottom: 1px solid rgba(96, 97, 96, 0.5);
+}
+.Contact_content input:focus
+{
+    outline: 2px solid #00CDCE;
+}
+
+.Contact_content textarea:focus
+{
+    outline: 2px solid #00CDCE;
+}
+.Contact_content textarea
+{
+    resize: none;
+    grid-row: 1/span 3;
+    grid-column: 2/3;
+}
+.Contact_content button
+{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    padding: 9px 7px;
+    margin: 20px 15px;
+    border: none;
+    border-bottom: 1px solid rgba(96, 97, 96, 0.5);
+}
+.Contact_content button:focus
+{
+    background-color: #00CDCE;
+    outline: 2px solid #00CDCE;
+}
