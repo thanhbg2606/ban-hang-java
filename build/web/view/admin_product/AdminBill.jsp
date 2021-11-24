@@ -29,7 +29,7 @@
 			<div class="col-10">
 				<div class="content mt-5" style="min-height: 700px">
 					<form class="text-center"
-						action="<%=request.getContextPath() + "/admin/searchBill"%>">
+						action="<%=request.getContextPath() + "/ItemsMVC/admin/searchBill"%>">
 						<div class="input-group mb-3">
 							<input name="nameP" type="text" class="form-control"
 								placeholder="Name">

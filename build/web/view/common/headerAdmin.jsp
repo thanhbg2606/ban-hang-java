@@ -11,10 +11,10 @@
 				href="<%=request.getContextPath() + "/admin/welcomeAdminServlet"%>"><i
 					class="fa fa-eye"></i> Customer List</a></li>
 			<li class="nav-item "><a class="nav-link font-weight-bold"
-				href="<%=request.getContextPath() + "/admin/viewDetailProduct"%>"><i
+				href="<%=request.getContextPath() + "/ItemsMVC/admin/viewDetailProduct"%>"><i
 					class="fa fa-eye"></i> Product List </a></li>
 			<li class="nav-item "><a class="nav-link font-weight-bold"
-				href="<%=request.getContextPath() + "/admin/billList"%>">
+				href="<%=request.getContextPath() + "/ItemsMVC/admin/billList"%>">
 					<i class="fa fa-plus-square"></i> Order List
 			</a></li>
 			<li class="nav-item "><a class="nav-link font-weight-bold"
@@ -22,11 +22,11 @@
 					<i class="fa fa-plus-square"></i> Add Customer
 			</a></li>
 			<li class="nav-item "><a class="nav-link font-weight-bold"
-				href="<%=request.getContextPath() + "/admin/addProductServlet"%>">
+				href="<%=request.getContextPath() + "/ItemsMVC/admin/addProductServlet"%>">
 					<i class="fa fa-plus-square"></i> Add Book
 			</a></li>
 			<li class="nav-item"><a class="nav-link font-weight-bold"
-				href="<%=request.getContextPath() + "/admin/logoutAdmin"%>"> <i
+				href="<%=request.getContextPath() + "/ItemsMVC/admin/logoutAdmin"%>"> <i
 					class="fa fa-archway"></i> Logout
 			</a></li>
 		</ul>
