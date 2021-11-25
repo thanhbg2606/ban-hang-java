@@ -45,7 +45,7 @@ String e = request.getParameter("e");
 						method="post">
 							<div class="mb-3">
 								<label class="form-label">ID</label>
-								 <input readonly value="${productUpdate.getId()}" name="id2" class="form-control">
+								 <input readonly value="${productUpdate.getId()}" name="id" class="form-control">
 							</div>
 							<div class="mb-3">
 							<label class="form-label">Name</label>

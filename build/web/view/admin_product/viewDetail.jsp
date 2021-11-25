@@ -71,7 +71,7 @@
 										href="/ItemsMVC/admin/deleteProduct?id=${book.getId()}"
 										class="btn btn-danger mr-2">Delete</a> <a type="button"
 										href="/ItemsMVC/admin/editProductServlet?id=${book.getId()}"
-										class="btn btn-primary">Update</a></td>
+										class="btn btn-primary">Edit</a></td>
 								</tr>
 							</c:forEach>
 						</tbody>

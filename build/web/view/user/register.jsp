@@ -42,7 +42,7 @@ String e = request.getParameter("e");
 		<h1 class="text-center" style="background-color:#FFFACD; color: #1E90FF">Đăng Ký Thành Công</h1>
 	</c:if>
 	<div class="mt-5 container">
-		<form action="<%=request.getContextPath() + "/ClientSigin"%>"
+		<form action="<%=request.getContextPath() + "/ItemsMVC/ClientSigin"%>"
 			method="post">
 			<div class="mb-3">
 				<label class="form-label">First Name</label> <input name="firstname"

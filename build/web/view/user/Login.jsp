@@ -25,7 +25,7 @@
 			<div class="col-6">
 				<div class="input_sigin">
 
-					<form action="<%=request.getContextPath() + "/loginServlet"%>"
+					<form action="<%=request.getContextPath() + "/ItemsMVC/loginServlet"%>"
 						method="post">
 						<label class="font-weight-bold">UserName</label> <input class="form-control "
 							placeholder="Username" name="username"> <br> <label class="font-weight-bold">PassWord</label>

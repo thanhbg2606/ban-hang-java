@@ -3,44 +3,48 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/user/welcome.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/assest/shipment.css</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminAddUserController.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientLoginController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/user/Bill/BillList.jsp</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/user/cart/Cart_List.jsp</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/common/carousel.jsp</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminOrderList.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/assest/main.css</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminDeleteProductController.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientAddToCartController.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/WEB-INF/web.xml</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientAddOrderController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/user/register.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminAddProductController.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/AuthorDAOImpl.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientDeleteOrderController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/nbproject/ant-deploy.xml</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/Connection/JDBConection.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminDetailProduct.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/CartBookDAO.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/nbproject/build-impl.xml~</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/CustomerDAO/AccountDAOImpl.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/OrderDAO/CartDAOImpl.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientWelcomepageController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin/ViewDetail.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/CategoryImpl.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminUpdateUserController.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/CustomerDAO/AccountDAO.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/PublisherDAO.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin_product/viewDetail.jsp</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientCartController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/build.xml</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/Fillter/AdminFillter.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/CustomerDAO/CustomerDaoImpl.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientOrderController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/Fillter/ClientFillter.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/common/footer.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/AuthorDAO.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/BookDAOImpl.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/user/Login.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/BookDAO.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin/welcome.jsp</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/OrderDAO/CartDAO.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin/AddProduct.jsp</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientDetailBook.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/Customer/Customer.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin/UpdateProduct.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminDeleteOrderController.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminDeleteUserController.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/common/header.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/assest/welcome2css.css</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/OrderDAO/OrderDAO.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/OrderDAO/OrderDaoImpl.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/META-INF/context.xml</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/nbproject/project.properties</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/Order/Cart.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminDetailUserController.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/BookDAO/PublisherDAOImpl.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/common/footerAdmin.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/view/admin/update.jsp</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerAdmin/AdminUpdateProductController.java</file>
             <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/ControllerClient/ClientSigIn.java</file>
-            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/video_1/ItemsMVC/nbproject/genfiles.properties</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/CustomerDAO/AddressDAOImpl.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/java/CustomerDAO/CustomerDao.java</file>
+            <file>file:/C:/Users/NgocThanh/OneDrive%20-%20ptit.edu.vn/Desktop/1/ItemsMVC/src/main/webapp/assest/welcome.css</file>
         </group>
     </open-files>
 </project-private>

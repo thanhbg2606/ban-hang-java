@@ -64,7 +64,7 @@
 			</tbody>
 		</table>
 	</div>
-		<form action="<%=request.getContextPath() + "/member/AddToOrder"%>" method="post">
+		<form action="<%=request.getContextPath() + "/ItemsMVC/member/AddToOrder"%>" method="post">
 	    <section class="Contact" id="contact">
         <h1 style="font-weight: bold;" class="text-center">Shipment Delivery</h1>
         <div class="Contact_content ">

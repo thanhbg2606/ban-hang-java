@@ -24,7 +24,7 @@
                   <p>
                       <i class="fa fa-envelope"></i>
                       <a href="mail:hongquan2052k@gmail.com">
-                          hongquan2052k@gmail.com</a>
+                          quangmail.com</a>
                   </p>
                   <p> <i class="fa fa-phone"></i>
                       <a href="tel:0986382888"> +0986382888</a>

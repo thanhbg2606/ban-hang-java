@@ -8,7 +8,7 @@
 	<div class="mt-5">
 		<ul class="navbar-nav " style="flex-flow: column;">
 			<li class="nav-item "><a class="nav-link font-weight-bold"
-				href="<%=request.getContextPath() + "/admin/welcomeAdminServlet"%>"><i
+				href="<%=request.getContextPath() + "/ItemsMVC/admin/welcomeAdminServlet"%>"><i
 					class="fa fa-eye"></i> Customer List</a></li>
 			<li class="nav-item "><a class="nav-link font-weight-bold"
 				href="<%=request.getContextPath() + "/ItemsMVC/admin/viewDetailProduct"%>"><i
